@@ -13,3 +13,7 @@ The second script is an extension to the first one. The main difference is that 
 ### Third Script
 ---
 The third and final script focuses on filling the empty ratings of the users to further improve the search results. Specifically, we perfom a clustering on the users based on their preferences/ratings and then we fill in the empty values using the mean rating of the movies of that user's cluster. This is done using the k-means clustering.
+
+### Data Used
+---
+The data we used was provided by <a href="https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system" target="_blank"> this</a> Kaggle dataset.
